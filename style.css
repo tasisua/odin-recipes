@@ -1,0 +1,35 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background: cadetblue;
+    border: 3px solid black;
+}
+
+h1 {
+    text-align: center;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 3px;
+    background-color: lightgray;
+}
+
+h2 {
+    text-align: center;
+    border: 3px solid black;
+    margin: 3px;
+    background-color: lightgray;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+a {
+    display: block;
+    text-align: center;
+    padding-bottom: 10px;
+}
